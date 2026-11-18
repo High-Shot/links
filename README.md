@@ -1,6 +1,6 @@
 # links
 
-Source for [barcuspatty.github.io/links](https://barcuspatty.github.io/links/) — a single-page link hub, built as static HTML and deployed to GitHub Pages.
+Source for [high-shot.github.io/links](https://high-shot.github.io/links/) — a single-page link hub, built as static HTML and deployed to GitHub Pages.
 
 ## How it works
 

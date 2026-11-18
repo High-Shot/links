@@ -5,7 +5,7 @@ color_scheme: auto
 
 plugins:
   - GithubLastCommitPlugin:
-      - barcuspatty/links
+      - High-Shot/links
 
 google_analytics_id:
 
@@ -59,7 +59,7 @@ links:
 
   - link:
       icon: "fa-brands fa-github"
-      text: "Projects & Code <span class='link-button-text'>(updated {{ vars.GithubLastCommitPlugin['barcuspatty/links'].date }})</span>"
+      text: "Projects & Code <span class='link-button-text'>(updated {{ vars.GithubLastCommitPlugin['High-Shot/links'].date }})</span>"
       url: "https://github.com/barcuspatty"
       alt: "Barcus Patty on GitHub"
       title: "Open source projects and tools"
